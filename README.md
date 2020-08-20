@@ -1,11 +1,5 @@
 <html>
 <head>
-  <style>
-  img {
-    width: 100%;
-    height: auto;
-  }
-  </style>
 </head>
 
 <body>
